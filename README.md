@@ -1,4 +1,5 @@
 const aboutMe = {
+
  👋fullName: "Hi, I’m Oussama Khnichich",
  👀 programmingSkills: {
     clientSoftware: ["Bootstrap", "JavaScript", "JSON", "React", "Redux"],
